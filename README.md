@@ -12,6 +12,6 @@
 4. pandas-profiling
 5. **Yellowbrick**
 6. **Graphviz**
-
-JUST RUN ALL CELLS AFTER INSTALLING ALL THE DEPENDENCIES.
 ---
+Just run all the cells after installing all the dependencies.
+
