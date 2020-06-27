@@ -15,4 +15,4 @@
 ---
 Just run all the cells after installing all the dependencies.
 
-Graphviz and yellowbrick help with the interactive visualization
+Graphviz and yellowbrick help with the interactive visualization.
